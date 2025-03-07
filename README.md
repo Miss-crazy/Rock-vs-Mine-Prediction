@@ -23,7 +23,7 @@ Jupyter Notebook / Google Colab for experimentation .
 <h2>Key Observations:</h2>
 ✔ Feature scaling (StandardScaler) improved model performance.
 ✔ Random Forest outperformed Logistic Regression, making better predictions on test data.
-✔ The model never misclassified a mine (R) as a rock, achieving 100% recall for mines.
+✔ The model never misclassified a mine (R) as a rock, achieving 82% recall for mines.
 ✔ Feature importance analysis could be done to remove unimportant features and optimize performance.
 
 # Conclusion :
